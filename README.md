@@ -4,7 +4,7 @@ A moderately advanced cribdragging program. It compares 2 messages that were XOR
 
 ## Cribword
 
-The first step is to try a cribword. You will most likely see random letters and symbols at first. However, if the guess is partially correct, you may start to see partial plaintext as the output.
+The first step is to try a cribword. You will most likely see random letters and symbols at first. However, if the guess is partially correct, you will start to see partial plaintext as the output.
 
 ## Partial Dictionary Matches
 
